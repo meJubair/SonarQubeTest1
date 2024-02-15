@@ -1,0 +1,1 @@
+[![Quality Gate Status](http://localhost:8889/api/project_badges/measure?project=TestProject1&metric=alert_status&token=sqb_3976b4ee30977a0d67c3226fb40aad832ec33bae)](http://localhost:8889/dashboard?id=TestProject1)
